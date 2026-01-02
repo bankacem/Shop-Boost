@@ -1,0 +1,8 @@
+{
+  "name": "ShopBoost Pages",
+  "description": "A powerful no-code landing page builder for Shopify brands with AI-driven content generation and high-conversion templates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
